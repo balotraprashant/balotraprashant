@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @balotraprashant
+- 👋 Hi, I’m Prashant Balotra
 - 👀 I’m interested in learning Full stack development
-- 🌱 I’m currently learning microservices Spring Boot, React, AWS 
+- 🌱 I’m currently learning Java microservices using Spring Boot, Angular, AWS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
