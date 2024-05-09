@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prashant Balotra
-- 👀 I’m interested in learning Full stack development
-- 🌱 I’m currently learning Java microservices using Spring Boot, Angular, AWS 
+- 👀 I’m interested in Full stack development
+- 🌱 I’m experienced in Java microservices using Spring Boot, Angular, ReactJS, MySQL, Elasticsearch, AWS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
